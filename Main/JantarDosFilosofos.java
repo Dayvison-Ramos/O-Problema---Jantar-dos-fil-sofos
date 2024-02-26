@@ -4,7 +4,7 @@ package Main;
 import java.util.concurrent.Semaphore;
 
 
-
+// comentário test//
 public class JantarDosFilosofos {
     public static void main(String[] args) {
         int numFilosofos = 5; 
